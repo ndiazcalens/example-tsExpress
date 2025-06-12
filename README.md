@@ -49,7 +49,7 @@ It includes examples of:
 ├── services/           # Business logic and data manipulation
 ├── utils.ts            # Input validation and parsing logic
 ├── types.ts            # Custom TypeScript types and enums
-├── index.ts            # Main server entry point
+├── app.ts              # Main server entry point
 ```
 
 ## 📬 API Endpoints
